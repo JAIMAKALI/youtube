@@ -1,0 +1,29 @@
+.search_bar{
+  margin: 20px;
+  text-align: center;
+}
+
+.search_bar input{
+  width:75%;
+}
+
+.video-detail .details .video_title{
+margin:20px;
+padding:10px;
+border:5px solid red ;
+border-radius: 5px
+}
+
+.video-detail .details .video_desc{
+margin:20px;
+padding:10px;
+border:5px solid blue ;
+border-radius: 5px
+}
+
+.list-group-item{
+  cursor: pointer;
+}
+.list-group-item:hover{
+  background-color: #ddd;
+}
